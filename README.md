@@ -1,2 +1,2 @@
-# ACTS-ARM64
-Advanced CPU Testing System
+# ACTS
+Avanced Cpu Testing System
